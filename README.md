@@ -26,5 +26,6 @@ Verification:
 
 **Built & Tested in Apache NetBeans (JDK25).**
 
-###Source Code All application source code is included in the src/directorysizecalculator directory.
+### Source Code
+All application source code is included in the `src/directorysizecalculator` directory.  
 A ZIP archive is provided for convenience.
